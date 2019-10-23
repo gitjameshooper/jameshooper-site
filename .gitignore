@@ -1,0 +1,10 @@
+# compiled output
+/portfolio-app/dist
+/portfolio-app/tmp
+/portfolio-app/out-tsc
+/portfolio-app/node_modules
+
+# System Files
+*.DS_Store
+*Thumbs.db
+*.editorconfig
